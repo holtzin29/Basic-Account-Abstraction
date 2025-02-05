@@ -28,7 +28,7 @@
 # Contracts
 
 ## MinimalAccount.sol
--A basic contract that allows users to execute transactions, manage their balances, and interact with the Ethereum network.
+- A basic contract that allows users to execute transactions, manage their balances, and interact with the Ethereum network.
 
 - Key Functions:
 
