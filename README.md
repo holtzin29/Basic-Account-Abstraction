@@ -89,6 +89,9 @@
 
 - Verify that the operation is processed correctly.
 
+  # Important:
+  - It also has version of this account abstraction and some tests on the ZkSybc chain, but on zksync it doesn't need the data to be sent to an altmempool so it makes a bit easier, but since you script on ZkSync are not working i just won't cover much of it.
+
 # Key Concepts
 ## User Operations (UserOp)
 - In account abstraction, a UserOp is a packed operation that contains all the details needed to execute a transaction. It is signed by the user, validated, and executed by the entry point contract.
