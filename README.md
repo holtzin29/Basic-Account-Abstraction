@@ -107,5 +107,5 @@
 - Submitting pull requests for bug fixes or improvements.
 
 # License
-## MIT 
+- MIT 
 
