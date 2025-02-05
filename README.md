@@ -106,6 +106,9 @@
 - Suggesting new features or optimizations.
 - Submitting pull requests for bug fixes or improvements.
 
+# Inspired in
+- Cyfrin NFT lessons.
+
 # License
 - MIT 
 
